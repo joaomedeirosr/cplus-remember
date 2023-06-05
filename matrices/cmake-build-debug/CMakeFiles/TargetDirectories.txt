@@ -1,0 +1,3 @@
+/Users/joao/Desktop/cplus/matrices/cmake-build-debug/CMakeFiles/matrices.dir
+/Users/joao/Desktop/cplus/matrices/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joao/Desktop/cplus/matrices/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/joao/Desktop/cplus/training_variables/cmake-build-debug/CMakeFiles/training_variables.dir
+/Users/joao/Desktop/cplus/training_variables/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joao/Desktop/cplus/training_variables/cmake-build-debug/CMakeFiles/rebuild_cache.dir

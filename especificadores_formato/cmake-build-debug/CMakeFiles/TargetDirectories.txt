@@ -1,0 +1,3 @@
+/Users/joao/Desktop/cplus/especificadores_formato/cmake-build-debug/CMakeFiles/especificadores_formato.dir
+/Users/joao/Desktop/cplus/especificadores_formato/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joao/Desktop/cplus/especificadores_formato/cmake-build-debug/CMakeFiles/rebuild_cache.dir
